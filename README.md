@@ -49,7 +49,7 @@
 - phone : +201096731881
 
 
-<p><a href="http://Wa.me/201096731881" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20bussines-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.facebook.com/M.Bastawyyy" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mostafa-bastawy-64762b135/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.youtube.com/channel/UC8938jUkEWeJIuTEs_uQ-CQ" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a><p>
+<p><a href="http://Wa.me/201096731881" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20bussines-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.facebook.com/mo.mo7md" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/moaaz-mohammed/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.youtube.com/channel/UC8938jUkEWeJIuTEs_uQ-CQ" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a><p>
 
 <!--  <a href="https://www.instagram.com/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/instagram-cd486b.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
 
@@ -58,14 +58,13 @@
 
 <h2> Samples from my projects </h2>
 
-### Blodd Donation App
+### Blood Donation App
 This application is managing people who need blood donation.
 I made this app using Firebase (Authentication, Firestore 'DB').
 Bloc as State Management.
 Supports localization (Arabic - English).
 Supports Light Mood and Dark Mood.
-<p><a href="https://play.google.com/store/apps/details?id=com.moaaz.blood_donation" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /><p>
-
+<p><a href="https://play.google.com/store/apps/details?id=com.moaaz.blood_donation" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play"/></a><p>
 <hr>
 
 ### Food Delivery App(Admin)
@@ -87,6 +86,7 @@ can change his delivery address & personal information.
 <p><a href="https://play.google.com/store/apps/details?id=com.mostafabastawyy.food_user_interface" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
  
 <hr>
+
 
 ### Noon-Clone
 
