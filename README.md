@@ -94,7 +94,7 @@ This is a full e-commerce application. I made by using Firebase, Shared Preferen
 (Bloc). This app connects to the FirebaseFirestore to show you the all products in the store based on the
 category like (Baby-Electronics-Men's Fashion). Also you add your product to your favorites list to buy later or
 cart to make an order.
-<p><a href="https://github.com/MostafaBastawy/noonClone" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
+<p><a href="https://github.com/MostafaBastawy/noonClone" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Git%20Hub-blue.svg?style=for-the-badge&logo=github" /></a> <p>
  
 <hr>
 
