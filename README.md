@@ -86,7 +86,7 @@ This is a clone of Facebook app UI.
 This is a news application. I made it to learn the all basics of the REST APIS (using Dio package), Shared
 Preference and State Management (Bloc). This app connects to the APIS to show the user all news based on
 the category like (Sports-Business-Science). Also it has the dark mode option.
-<p><a href="https://github.com/Moaaz-Mohammed/WhatsApp-Clone" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Git%20Hub-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
+<p><a href="https://github.com/Moaaz-Mohammed/WhatsApp-Clone" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Git%20Hub-blue.svg?style=for-the-badge&logo=github" /></a> <p>
  
 <hr>
 
