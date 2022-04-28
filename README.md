@@ -70,19 +70,22 @@ Supports Light Mood and Dark Mood.
 
 ### Facebook-Clone
 
-This is a full Social App. I made by using Firebase (Authentication, Firestore Database, Storage),and State
-Management (Bloc). This app give the user ability to share posts, share stories, chat with other users and edit
-his profile information & profile picture & cover Picture.
-<p><a href="https://github.com/MostafaBastawy/Facebook-Clone" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
+This is a clone of Facebook app UI.
+I made this app using:
+* Flutter material package.
+* Bloc as State Management.
+* responsive_builder package to switch between mobile and desktop view.
+
+<p><a href="https://github.com/Moaaz-Mohammed/facebook_clone.git" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Git%20Hub-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
  
 <hr>
 
-### News App
+### WhatsApp Clone
 
 This is a news application. I made it to learn the all basics of the REST APIS (using Dio package), Shared
 Preference and State Management (Bloc). This app connects to the APIS to show the user all news based on
 the category like (Sports-Business-Science). Also it has the dark mode option.
-<p><a href="https://github.com/MostafaBastawy/newsapp" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
+<p><a href="https://github.com/Moaaz-Mohammed/WhatsApp-Clone" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Git%20Hub-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
  
 <hr>
 
