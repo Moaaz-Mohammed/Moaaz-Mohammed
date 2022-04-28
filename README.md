@@ -60,7 +60,7 @@
 
 ### Blood Donation App
 This application is managing people who need blood donation.
-** I made this app using:
+* I made this app using:
 * Firebase (Authentication, Firestore 'DB').
 * Bloc as State Management.
 * Supports localization (Arabic - English).
