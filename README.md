@@ -72,12 +72,12 @@ This application is managing people who need blood donation.
 ### Facebook-Clone
 
 This is a clone of Facebook app UI.
-I made this app using:
+* I made this app using:
 * Flutter material package.
 * Bloc as State Management.
 * responsive_builder package to switch between mobile and desktop view.
 
-<p><a href="https://github.com/Moaaz-Mohammed/facebook_clone.git" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Git%20Hub-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
+<p><a href="https://github.com/Moaaz-Mohammed/facebook_clone.git" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Git%20Hub-blue.svg?style=for-the-badge&logo=github" /></a><p>
  
 <hr>
 
