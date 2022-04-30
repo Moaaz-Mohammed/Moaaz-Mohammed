@@ -49,7 +49,7 @@
 - phone : +201096731881
 
 
-<p><a href="http://Wa.me/201096731881" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20bussines-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.facebook.com/mo.mo7md" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/moaaz-mohammed/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.youtube.com/channel/UC8938jUkEWeJIuTEs_uQ-CQ" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a><p>
+<p><a href="http://Wa.me/201096731881" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20bussines-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.facebook.com/mo.mo7md" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/moaaz-mohammed/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <p>
 
 <!--  <a href="https://www.instagram.com/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/instagram-cd486b.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
 
@@ -90,22 +90,20 @@ the category like (Sports-Business-Science). Also it has the dark mode option.
  
 <hr>
 
-### Private Note App
+[comment]: <> (### Private Note App)
 
-This is a notes application. I made it to learn the all basics of the SQL-lite database and State Management
-(Bloc).It is very simple and easy to use. The main idea of the application is to store the user notes as tasks to
-help him managing his time. Also he sets a deadline to end this task and the application shows him if the task
-had done or not.
-<p><a href="https://github.com/MostafaBastawy/Private-Note" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
+[comment]: <> (This is a notes application. I made it to learn the all basics of the SQL-lite database and State Management)
+
+[comment]: <> (&#40;Bloc&#41;.It is very simple and easy to use. The main idea of the application is to store the user notes as tasks to)
+
+[comment]: <> (help him managing his time. Also he sets a deadline to end this task and the application shows him if the task)
+
+[comment]: <> (had done or not.)
+
+[comment]: <> (<p><a href="https://github.com/MostafaBastawy/Private-Note" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>)
  
-<hr>
+[comment]: <> (<hr>)
 
-### Calculator App
-
-This was my first application. It makes simple calculations.
-<p><a href="https://github.com/MostafaBastawy/Calculator" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
- 
-<hr>
 
 
 <h2> Applications Screenshots and Tutorial </h2>
