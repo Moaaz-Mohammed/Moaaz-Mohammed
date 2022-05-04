@@ -85,23 +85,14 @@ This application is helps people who own pets to:
 <hr>
 
 ### Tawseel App
-
+This app is helps Sohag people to order anything and deliver it to home address.
+* I made this app using:
+* Firebase (Authentication, Firestore 'DB').
+* Provider as State Management.
 
 <p><a href="https://play.google.com/store/apps/details?id=com.technospace.tawsel_app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play"/></a><p>
 
 <hr>
-
-### Facebook UI - Clone
-This is a clone of Facebook app UI.
-* I made this app using:
-* Flutter material package.
-* Bloc as State Management.
-* responsive_builder package to switch between mobile and desktop view.
-
-<p><a href="https://github.com/Moaaz-Mohammed/facebook_clone.git" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Git%20Hub-blue.svg?style=for-the-badge&logo=github" /></a><p>
-
-<hr>
-
 
 ### Facebook-Clone
 
