@@ -70,10 +70,10 @@ This application is managing people who need blood donation.
 
 ### Govet App
 This application is helps people who own pets to:
-1- Find veterinarian
-2- Call veterinarian to check the pet via video call 
-3- Order a home visit to check pet in home
-4- Order feeds for your pets
+* 1- Find veterinarian
+* 2- Call veterinarian to check the pet via video call 
+* 3- Order a home visit to check pet in home
+* 4- Order feeds for your pets
 
 <p><a href="https://play.google.com/store/apps/details?id=com.technospace.govet" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play"/></a><p>
 
