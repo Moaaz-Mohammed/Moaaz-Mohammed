@@ -75,8 +75,21 @@ This application is helps people who own pets to:
 * 3- Order a home visit to check pet in home
 * 4- Order feeds for your pets
 
+* I made this app using:
+* Firebase (Authentication, Firestore 'DB').
+* Provider as State Management.
+* MyFatoorah as payment method
+
 <p><a href="https://play.google.com/store/apps/details?id=com.technospace.govet" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play"/></a><p>
 
+<hr>
+
+### Tawseel App
+
+
+<p><a href="https://play.google.com/store/apps/details?id=com.technospace.tawsel_app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play"/></a><p>
+
+<hr>
 
 ### Facebook UI - Clone
 This is a clone of Facebook app UI.
