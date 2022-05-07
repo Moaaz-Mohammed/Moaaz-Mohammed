@@ -113,7 +113,14 @@ This is a news application. I made it to learn the all basics of the REST APIS (
 Preference and State Management (Bloc). This app connects to the APIS to show the user all news based on
 the category like (Sports-Business-Science). Also it has the dark mode option.
 <p><a href="https://github.com/Moaaz-Mohammed/WhatsApp-Clone" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Git%20Hub-blue.svg?style=for-the-badge&logo=github" /></a> <p>
- 
+
+<table>
+  <tr>
+    <td><img src="https://github.com/Moaaz-Mohammed/Moaaz-Mohammed/blob/main/photo_2022-05-07_20-22-53%20(2).jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom2.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom3.jpg" width=270 height=480></td>
+  </tr>
+ </table>
 <hr>
 
 [comment]: <> (### Private Note App)
