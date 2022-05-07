@@ -123,7 +123,7 @@ This is a todo application to organize your tasks.
 * I made this app using:
 * Flutter material package.
 * Firebase (Authentication, Database,).
-<p><a href="https://github.com/Moaaz-Mohammed/WhatsApp-Clone" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Git%20Hub-blue.svg?style=for-the-badge&logo=github" /></a> <p>
+<p><a href="https://github.com/Moaaz-Mohammed/fb_todo_app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Git%20Hub-blue.svg?style=for-the-badge&logo=github" /></a> <p>
 
 <table>
   <tr>
