@@ -115,6 +115,7 @@ This is a clone of Facebook app UI.
 * responsive_builder package to switch between mobile and desktop view.
 <p><a href="https://github.com/Moaaz-Mohammed/WhatsApp-Clone" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Git%20Hub-blue.svg?style=for-the-badge&logo=github" /></a> <p>
 
+<hr>
 
 ### Todo App
 
