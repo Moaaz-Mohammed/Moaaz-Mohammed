@@ -117,8 +117,22 @@ the category like (Sports-Business-Science). Also it has the dark mode option.
 <table>
   <tr>
     <td><img src="https://github.com/Moaaz-Mohammed/Moaaz-Mohammed/blob/main/photo_2022-05-07_20-22-53%20(2).jpg" width=270 height=480></td>
-    <td><img src="lib/alasoom/alasoom2.jpg" width=270 height=480></td>
-    <td><img src="lib/alasoom/alasoom3.jpg" width=270 height=480></td>
+    <td><img src="https://github.com/Moaaz-Mohammed/Moaaz-Mohammed/blob/main/photo_2022-05-07_20-22-53%20(3).jpg" width=270 height=480></td>
+    <td><img src="https://github.com/Moaaz-Mohammed/Moaaz-Mohammed/blob/main/photo_2022-05-07_20-22-53%20(4).jpg" width=270 height=480></td>
+  </tr>
+ </table>
+<table>
+  <tr>
+    <td><img src="https://github.com/Moaaz-Mohammed/Moaaz-Mohammed/blob/main/photo_2022-05-07_20-22-53%20(5).jpg" width=270 height=480></td>
+    <td><img src="https://github.com/Moaaz-Mohammed/Moaaz-Mohammed/blob/main/photo_2022-05-07_20-22-53.jpg" width=270 height=480></td>
+    <td><img src="https://github.com/Moaaz-Mohammed/Moaaz-Mohammed/blob/main/photo_2022-05-07_20-29-46%20(2).jpg" width=270 height=480></td>
+  </tr>
+ </table>
+<table>
+  <tr>
+    <td><img src="https://github.com/Moaaz-Mohammed/Moaaz-Mohammed/blob/main/photo_2022-05-07_20-29-46%20(3).jpg" width=270 height=480></td>
+    <td><img src="https://github.com/Moaaz-Mohammed/Moaaz-Mohammed/blob/main/photo_2022-05-07_20-29-46.jpg" width=270 height=480></td>
+    <td><img src="https://github.com/Moaaz-Mohammed/Moaaz-Mohammed/blob/main/photo_2022-05-07_20-29-47.jpg" width=270 height=480></td>
   </tr>
  </table>
 <hr>
