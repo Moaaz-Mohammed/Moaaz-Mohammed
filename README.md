@@ -109,9 +109,19 @@ This is a clone of Facebook app UI.
 
 ### WhatsApp Clone
 
-This is a news application. I made it to learn the all basics of the REST APIS (using Dio package), Shared
-Preference and State Management (Bloc). This app connects to the APIS to show the user all news based on
-the category like (Sports-Business-Science). Also it has the dark mode option.
+* I made this app using:
+* Flutter material package.
+* Bloc as State Management.
+* responsive_builder package to switch between mobile and desktop view.
+<p><a href="https://github.com/Moaaz-Mohammed/WhatsApp-Clone" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Git%20Hub-blue.svg?style=for-the-badge&logo=github" /></a> <p>
+
+
+### Todo App
+
+This is a todo application to organize your tasks.
+* I made this app using:
+* Flutter material package.
+* Firebase (Authentication, Database,).
 <p><a href="https://github.com/Moaaz-Mohammed/WhatsApp-Clone" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Git%20Hub-blue.svg?style=for-the-badge&logo=github" /></a> <p>
 
 <table>
