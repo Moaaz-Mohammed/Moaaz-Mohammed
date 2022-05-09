@@ -157,8 +157,6 @@ This is a todo application to organize your tasks.
 [comment]: <> (help him managing his time. Also he sets a deadline to end this task and the application shows him if the task)
 
 [comment]: <> (had done or not.)
-
-[comment]: <> (<p><a href="https://github.com/MostafaBastawy/Private-Note" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>)
  
 [comment]: <> (<hr>)
 
