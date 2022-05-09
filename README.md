@@ -162,10 +162,6 @@ This is a todo application to organize your tasks.
  
 [comment]: <> (<hr>)
 
-
-
-<h2> Applications Screenshots and Tutorial </h2>
-
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
 
